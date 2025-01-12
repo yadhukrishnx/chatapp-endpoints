@@ -4,6 +4,12 @@
 
 ## Getting Started
 
+# Demo
+
+https://github.com/user-attachments/assets/fb3579d9-5e0f-42ff-83c6-700b86f7483d
+
+
+A short demo video showcasing how the application responds to api requests.
 
 
 ### Prerequisites  
