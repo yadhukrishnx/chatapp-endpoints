@@ -6,7 +6,7 @@
 
 # Demo
 
-https://github.com/user-attachments/assets/fb3579d9-5e0f-42ff-83c6-700b86f7483d
+https://github.com/user-attachments/assets/2dc4d6f2-3676-4806-a00b-b145ef724ada
 
 
 A short demo video showcasing how the application responds to api requests.
